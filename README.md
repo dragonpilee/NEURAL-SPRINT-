@@ -7,6 +7,8 @@
 ![CUDA RTX](https://img.shields.io/badge/GPU-RTX%202050%2B-green)
 ![MIT License](https://img.shields.io/badge/License-MIT-green)
 
+![Screenshot](Screenshot.png)
+
 > **Developed by Alan Cyril Sunny**  
 > If you find this project helpful, please ⭐ [star the repository](https://github.com/yourusername/neuralsprint)!
 
