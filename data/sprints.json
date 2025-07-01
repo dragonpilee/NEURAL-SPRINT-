@@ -1,0 +1,16 @@
+[
+  {
+    "id": "4041c40f",
+    "name": "new",
+    "start_date": "2025-07-01",
+    "end_date": "2025-07-15",
+    "duration_weeks": 2,
+    "capacity": 40,
+    "status": "Planning",
+    "stories": [],
+    "goals": [],
+    "created_date": "2025-07-01T05:20:32.688436",
+    "completed_points": 0,
+    "total_points": 0
+  }
+]
